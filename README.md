@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SyedFarrukhAbbas
-- 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning React Native
+- 👀 I’m interested in Web and Mobile Application Development
+- 🌱 I’m currently learning MERN Stack and React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
